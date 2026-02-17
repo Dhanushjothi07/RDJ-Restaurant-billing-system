@@ -1,5 +1,5 @@
 
-export const MENU_VERSION = '1.2';
+export const MENU_VERSION = '1.3';
 
 export const INITIAL_MENU = [
     { id: 1, name: 'Idly', price: 40, category: 'Breakfast', image: '/images/idly.png' },
