@@ -3,7 +3,7 @@ import React from 'react';
 const AdminPanel = ({ bills, onResetMenu }) => {
     const handlePrint = (bill) => {
         const printWindow = window.open('', '_blank');
-        const shopName = "ANTIGRAVITY DELIGHTS";
+        const shopName = "NDS Foodie";
         const gstNumber = "27AAACR1234A1Z1";
 
         const billContent = `

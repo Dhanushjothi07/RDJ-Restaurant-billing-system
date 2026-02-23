@@ -7,8 +7,8 @@ const BillingSidebar = ({ cart, updateQuantity, removeFromCart, onSaveBill, clea
 
     const handlePrint = () => {
         const dateStr = new Date().toLocaleString();
-        const billId = `AGF-${String(nextBillNum).padStart(4, '0')}`;
-        const shopName = "ANTIGRAVITY DELIGHTS";
+        const billId = `NDSF-${String(nextBillNum).padStart(4, '0')}`;
+        const shopName = "NDS Foodie";
         const gstNumber = "27AAACR1234A1Z1";
 
         const billData = {

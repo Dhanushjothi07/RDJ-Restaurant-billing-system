@@ -121,7 +121,7 @@ function App() {
       <div className="main-content">
         <header style={{ marginBottom: '30px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
-            <h1 style={{ color: 'var(--primary-color)' }}>ANTIGRAVITY Foodie</h1>
+            <h1 style={{ color: 'var(--primary-color)' }}>NDS Foodie</h1>
             <p style={{ color: 'var(--text-secondary)' }}>Fast & Premium Billing System</p>
           </div>
           <div style={{ display: 'flex', gap: '12px' }}>
